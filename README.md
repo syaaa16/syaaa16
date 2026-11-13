@@ -7,8 +7,8 @@
   <p>Building scalable web applications with modern design and robust APIs.</p>
 
   <!-- Badge Sosial Media (Ganti '#' dengan link asli) -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  
+  <a href="https://syaaa16.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" /></a>
   <a href="mailto:ajiarsya16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
