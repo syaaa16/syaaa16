@@ -25,18 +25,21 @@
 ###  Tech Stack & Tools
 
 **Frontend & Design:**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Backend & Database:**
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=json&logoColor=white)
 
 **Tools:**
+<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FFD200?style=for-the-badge&logo=thunderclient&logoColor=black)
 ![Bruno](https://img.shields.io/badge/Bruno-F15929?style=for-the-badge&logo=bruno&logoColor=white)
