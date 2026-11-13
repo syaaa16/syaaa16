@@ -42,6 +42,7 @@
 ![Bruno](https://img.shields.io/badge/Bruno-F15929?style=for-the-badge&logo=bruno&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br/>
 
 ### GitHub Analytics
 <br />
