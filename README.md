@@ -1,29 +1,28 @@
 <div align="center">
   
-  <h1>Hey, I'm [syaaa16] 👋</h1>
+  <h1>Hey guys, I'm {syaaa16} </h1>
   
-  <h3>💻 MERN Stack Developer | 🎨 UI/UX Designer</h3>
+  <h3> MERN Stack Developer | UI/UX Designer</h3>
   
   <p>Building scalable web applications with modern design and robust APIs.</p>
 
-  <!-- Badge Sosial Media (Ganti '#' dengan link asli) -->
-  
+
   <a href="https://syaaa16.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" /></a>
   <a href="mailto:ajiarsya16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <hr />
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🚀 **MERN Stack Developer & UI/UX Designer** yang berfokus pada pembangunan aplikasi web end-to-end yang skalabel dan *user-centric*.
-- 🤖 **AI-Driven Workflow:** Memanfaatkan AI secara aktif untuk **perencanaan arsitektur proyek** yang lebih matang, serta melakukan **error handling & debugging** dengan lebih cepat dan efisien.
-- 🔗 Berpengalaman merancang dan mengintegrasikan **RESTful API** yang aman dan optimal untuk menjembatani logika *backend* yang kompleks dengan *frontend*.
-- 🎨 Menguasai **CSS3** dan prinsip desain modern untuk menciptakan antarmuka yang tidak hanya memanjakan mata, tapi juga responsif dan intuitif.
-- 🧠 Selalu beradaptasi dengan teknologi terbaru, mengubah masalah kompleks menjadi solusi digital yang elegan dan fungsional.
-- 💬 Terbuka untuk diskusi seputar JavaScript, React, Node.js, UI/UX, atau integrasi AI dalam *development*!
+-  **MERN Stack Developer & UI/UX Designer** yang berfokus pada pembangunan aplikasi web end-to-end yang skalabel dan *user-centric*.
+-  **AI-Driven Workflow:** Memanfaatkan AI secara aktif untuk **perencanaan arsitektur proyek** yang lebih matang, serta melakukan **error handling & debugging** dengan lebih cepat dan efisien.
+-  Berpengalaman merancang dan mengintegrasikan **RESTful API** yang aman dan optimal untuk menjembatani logika *backend* yang kompleks dengan *frontend*.
+-  Menguasai **CSS3** dan prinsip desain modern untuk menciptakan antarmuka yang tidak hanya memanjakan mata, tapi juga responsif dan intuitif.
+-  Selalu beradaptasi dengan teknologi terbaru, mengubah masalah kompleks menjadi solusi digital yang elegan dan fungsional.
+-  Terbuka untuk diskusi seputar JavaScript, React, Node.js, UI/UX, atau integrasi AI dalam *development*!
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend & Design:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,10 +42,34 @@
 ![Bruno](https://img.shields.io/badge/Bruno-F15929?style=for-the-badge&logo=bruno&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syaaa16&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaaa16&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<hr />
+
+### GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syaaa16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaaa16&layout=compact&langs_count=6&theme=tokyonight" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=syaaa16&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<hr />
+
+<div align="center">
+  <!-- Quote Developer Dinamis -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
