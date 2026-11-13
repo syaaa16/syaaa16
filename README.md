@@ -44,14 +44,6 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syaaa16&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaaa16&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<hr />
-
 ### GitHub Analytics
 <br />
 
