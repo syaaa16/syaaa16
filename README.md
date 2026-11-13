@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- Ganti URL di bawah dengan link foto profil kamu -->
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-
   <h1>Hey, I'm [syaaa16] 👋</h1>
   
   <h3>💻 MERN Stack Developer | 🎨 UI/UX Designer</h3>
