@@ -13,7 +13,7 @@
 
 <hr />
 
-###  About Me
+###  About Me?sure
 
 -  **MERN Stack Developer & UI/UX Designer** yang berfokus pada pembangunan aplikasi web end-to-end yang skalabel dan *user-centric*.
 -  **AI-Driven Workflow:** Memanfaatkan AI secara aktif untuk **perencanaan arsitektur proyek** yang lebih matang, serta melakukan **error handling & debugging** dengan lebih cepat dan efisien.
